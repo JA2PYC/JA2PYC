@@ -35,9 +35,9 @@ C#, Unity
 - 3 ~ 4인 구성 팀과제 수행 결과물
 - Java, Python, Spring Boot 사용 과제 수행
 - 기능 구현, API, DB 구현
-- Java 기반 스케쥴 관리 프로젝트 - green_team_schedule
-- Python 기반 풍력 발전량 예측 AI 프로젝트 - green_team_wind
-- Spring Boot 기반 전기재해 대시보드 프로젝트 - green_team_fires   
+- Java 기반 스케쥴 관리 프로젝트 - [green_team_schedule](https://github.com/JA2PYC/green_team_schedule)
+- Python 기반 풍력 발전량 예측 AI 프로젝트 - [green_team_wind](https://github.com/JA2PYC/green_team_wind)
+- Spring Boot 기반 전기재해 대시보드 프로젝트 - [green_team_fires](https://github.com/JA2PYC/green_team_fires)
 
    
 ### 💞️ 학원 수업 실습 - ja2pyc_green_*
