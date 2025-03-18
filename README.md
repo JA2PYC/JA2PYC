@@ -30,7 +30,6 @@ C#, Unity
 - 리액트에서 프론트 기능 구현
    
    
-   
 ### 🌱 학원 팀과제 - green_team_*
 - 3 ~ 4인 구성 팀과제 수행 결과물
 - Java, Python, Spring Boot 사용 과제 수행
@@ -39,9 +38,13 @@ C#, Unity
 - Python 기반 풍력 발전량 예측 AI 프로젝트 - [green_team_wind](https://github.com/JA2PYC/green_team_wind)
 - Spring Boot 기반 전기재해 대시보드 프로젝트 - [green_team_fires](https://github.com/JA2PYC/green_team_fires)
 
-   
+
 ### 💞️ 학원 수업 실습 - ja2pyc_green_*
 - 학원 수업 실습 코드
+
+
+### 📚 개인 학습 실습 코드 - ja2pyc_study_*
+- 개인 학습 실습 코드
 
 ******
 
